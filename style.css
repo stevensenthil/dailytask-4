@@ -1,0 +1,22 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.section{
+	background-image:linear-gradient(#111731,#111731),url("images/TEC027.png");	
+	width:100%;
+	background-size:cover; 
+}
+.bg-img2{
+	background-image:url("images/TEC028.png");
+	height:100vh;
+}
+.color{
+	background-color:#21252973;
+}
+/* a{ */
+	/* display:inline-block!important; */
+	/* text-align:center!important; */
+/* } */
+	
